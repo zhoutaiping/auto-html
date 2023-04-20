@@ -1,14 +1,3 @@
-# juggle
-
-# 招聘：
-如果您对前端可视化搭建以及前端低代码平台有兴趣，我邀请您入职我司，参与到我们的项目开发中来。
-有兴趣可推送简历到 18520504@qq.com
-
-
-## demo地址：
-服务器带宽有限，请耐心等待....      
-全功能demo：[http://juggle.isjs.cn/report.html?pageCode=0001](http://juggle.isjs.cn/report.html?pageCode=0001)  
-
 ## 配置项文档：https://github.com/adminV/juggle/blob/master/OPTIONS.md 
 
 ## 公告：   
